@@ -12,7 +12,7 @@
   |10|초음파 센서|
   |11|온습도 센서|
 - 자세한 내용은 Docs의 문서들을 참고해 주세요.
-    - Watch/Stopwatch + UART 중간 발표
+    - [Watch/Stopwatch + UART 중간 발표](https://github.com/yjm020500/Digital_Watch_Multi_Sensor_Interface/blob/main/Docs/group5_uart_project_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
     - Watch/Stopwatch + 온습도 센서와 초음파센서 + UART 최종 발표
 
 ## 모듈 구성
