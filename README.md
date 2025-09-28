@@ -1,5 +1,5 @@
 # Digital_Watch_Multi_Sensor_Interface
-
+<br>
 ## 프로젝트 개요
 - 대한상공회의소 서울기술교육센터에서 진행한 FPGA 보드를 이용한 Digital Watch/Stopwatch + 초음파센서/온습도센서 Interface 컨트롤러입니다.
 - FND와 버튼, UART를 이용하여 Watch/Stopwatch를 조정하고, Switch를 사용하여 네 가지 mode 변경이 가능합니다.
