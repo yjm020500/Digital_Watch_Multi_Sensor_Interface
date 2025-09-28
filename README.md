@@ -33,6 +33,7 @@
 4. 온습도 센서
     - DHT11 온습도 센서를 사용하였습니다.
     - Interface를 통해 정해진 Protocol에 따라 온도와 습도 값을 받아 FND 출력합니다.
+      <img width="637" height="228" alt="image" src="https://github.com/user-attachments/assets/cc98c524-888d-44f7-abdc-5a525ef3ae29" />
 5. 초음파 센서
     - HC-SR04 초음파 센서를 사용합니다.
     - Interface를 통해 초음파가 되돌아오는 시간을 측정하여 거리를 계산한 후 FND 출력합니다.
