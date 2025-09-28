@@ -37,6 +37,8 @@
 5. 초음파 센서
     - HC-SR04 초음파 센서를 사용합니다.
     - Interface를 통해 초음파가 되돌아오는 시간을 측정하여 거리를 계산한 후 FND 출력합니다.
+      <img width="589" height="168" alt="image" src="https://github.com/user-attachments/assets/daf99b70-3ea7-4ad0-b76f-732e08669f94" />
+
 6. UART
     - UART 통신을 담당합니다.
     - 설정한 Baudrate에 따라 PC와 통신합니다.
