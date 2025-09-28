@@ -63,5 +63,5 @@
     - 받은 데이터를 FND 출력하는 FND controller입니다.
     -  Switch[2]를 사용하여 Watch/Stopwatch mode에서 분/초 Display를 바꿀 수 있습니다.
 8. Button Detector
-    - Shift register를 사용하여 Debounced button signal을 1번 누를 때마다 1tick 신호로 변환
+    - Shift register를 사용하여 Debounced button signal을 1번 누를 때마다 1tick 신호로 변환합니다.
 
