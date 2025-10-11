@@ -15,8 +15,12 @@
 - 자세한 내용은 아래의 링크들을 참고해 주세요.
     - [Watch/Stopwatch + UART 중간 발표](https://github.com/yjm020500/Digital_Watch_Multi_Sensor_Interface/blob/main/Docs/group5_uart_project_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
     - [Watch/Stopwatch + 온습도 센서와 초음파센서 + UART 최종 발표](https://github.com/yjm020500/Digital_Watch_Multi_Sensor_Interface/blob/main/Docs/5%EC%A1%B0_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)
-    - [DemoVideo](https://github.com/yjm020500/Digital_Watch_Multi_Sensor_Interface/tree/main/DemoVideo)
-
+    - Demo
+      - [UART STOPWATCH](https://youtu.be/TUDdNFH-PVs)
+      - [UART WATCH](https://youtu.be/8a8A7DtF51s)
+      - [버튼 제어](https://youtu.be/LiAIKjECi7c)
+      - [UART Sensor](https://youtu.be/orB41f74gJ4)
+      
 ## 모듈 구성
 1. Top module
     - Stopwatch/Watch, 온습도 센서, 초음파 센서, UART, FND, Button Detector가 포함된 top module입니다.
