@@ -20,7 +20,16 @@
       - [UART WATCH](https://youtu.be/8a8A7DtF51s)
       - [버튼 제어](https://youtu.be/LiAIKjECi7c)
       - [UART Sensor](https://youtu.be/orB41f74gJ4)
-      
+
+<br>
+
+## 개발 환경
+- HW: Basys3
+- 언어: Verilog
+- Tool: VIVADO
+
+<br>
+
 ## 모듈 구성
 1. Top module
     - Stopwatch/Watch, 온습도 센서, 초음파 센서, UART, FND, Button Detector가 포함된 top module입니다.
